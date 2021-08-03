@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+
+
+<suite name="OCESales">
+
+	<listeners>
+		<listener class-name="com.ocesales.utilities.Reporting"/>
+	</listeners>
+
+	<test name="OCE App Testing chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.ocesales.testCases.TC_Loging_001" />
+			<!--  <class name="com.ocesales.testCases.TC_LoginLogout_003" /> -->
+			<!--  <class name="com.ocesales.testCases.TC_LoginDataDriven_002" /> -->
+		</classes>
+	</test>
+
+</suite>

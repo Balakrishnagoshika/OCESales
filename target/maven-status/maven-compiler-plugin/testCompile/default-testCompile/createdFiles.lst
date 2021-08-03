@@ -1,0 +1,11 @@
+com\ocesales\utilities\EmailUtils$1.class
+com\ocesales\testCases\TC_Loging_001.class
+com\ocesales\pageObjects\LoginPage.class
+com\ocesales\testCases\TC_LoginDataDriven_002.class
+com\ocesales\utilities\Reporting.class
+com\ocesales\utilities\EmailUtils.class
+com\ocesales\utilities\XLUtils.class
+com\ocesales\testCases\BaseClass.class
+com\ocesales\utilities\ReadConfig.class
+com\ocesales\testCases\TC_LoginLogout_003.class
+com\ocesales\utilities\SendEmail.class

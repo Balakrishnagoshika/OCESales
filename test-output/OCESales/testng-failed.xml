@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OCESales]">
+  <listeners>
+    <listener class-name="com.ocesales.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="OCE App Testing chrome(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.ocesales.testCases.TC_Loging_001">
+        <methods>
+          <include name="setup"/>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.ocesales.testCases.TC_Loging_001 -->
+    </classes>
+  </test> <!-- OCE App Testing chrome(failed) -->
+</suite> <!-- Failed suite [OCESales] -->

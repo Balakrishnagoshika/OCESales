@@ -1,0 +1,507 @@
+2021-07-12 23:51:20,215 - OCESales -INFO - URL is opened
+2021-07-12 23:51:21,605 - OCESales -INFO - Entered Username
+2021-07-12 23:51:22,658 - OCESales -INFO - Entered Password
+2021-07-12 23:53:02,630 - OCESales -INFO - URL is opened
+2021-07-12 23:53:03,520 - OCESales -INFO - Entered Username
+2021-07-12 23:53:04,412 - OCESales -INFO - Entered Password
+2021-07-12 23:55:13,188 - OCESales -INFO - URL is opened
+2021-07-12 23:55:14,535 - OCESales -INFO - Entered Username
+2021-07-12 23:55:15,629 - OCESales -INFO - Entered Password
+2021-07-12 23:59:00,414 - OCESales -INFO - URL is opened
+2021-07-12 23:59:01,699 - OCESales -INFO - Entered Username
+2021-07-12 23:59:02,495 - OCESales -INFO - Entered Password
+2021-07-12 23:59:24,354 - OCESales -INFO - Login test Failed
+2021-07-13 00:00:49,407 - OCESales -INFO - URL is opened
+2021-07-13 00:00:51,486 - OCESales -INFO - Entered Username
+2021-07-13 00:00:51,903 - OCESales -INFO - Entered Password
+2021-07-13 00:01:11,875 - OCESales -INFO - Login test Passed
+2021-07-13 00:42:59,742 - OCESales -INFO - URL is opened
+2021-07-13 00:43:00,898 - OCESales -INFO - Entered Username
+2021-07-13 00:43:02,126 - OCESales -INFO - Entered Password
+2021-07-13 00:43:26,651 - OCESales -INFO - Login test Passed
+2021-07-13 01:17:45,985 - OCESales -INFO - URL is opened
+2021-07-13 01:17:46,964 - OCESales -INFO - Entered Username
+2021-07-13 01:17:47,788 - OCESales -INFO - Entered Password
+2021-07-13 01:18:09,685 - OCESales -INFO - Login test Passed
+2021-07-13 01:19:32,443 - OCESales -INFO - URL is opened
+2021-07-13 01:19:33,242 - OCESales -INFO - Entered Username
+2021-07-13 01:19:34,258 - OCESales -INFO - Entered Password
+2021-07-13 01:19:49,912 - OCESales -INFO - Login test Passed
+2021-07-13 01:24:11,592 - OCESales -INFO - URL is opened
+2021-07-13 01:24:12,045 - OCESales -INFO - Entered Username
+2021-07-13 01:24:12,134 - OCESales -INFO - Entered Password
+2021-07-13 01:24:28,100 - OCESales -INFO - Login test Passed
+2021-07-13 01:32:00,407 - OCESales -INFO - URL is opened
+2021-07-13 01:32:01,389 - OCESales -INFO - Entered Username
+2021-07-13 01:32:02,465 - OCESales -INFO - Entered Password
+2021-07-13 01:32:25,631 - OCESales -INFO - Login test Passed
+2021-07-13 01:32:41,767 - OCESales -INFO - URL is opened
+2021-07-13 01:32:41,909 - OCESales -INFO - Entered Username
+2021-07-13 01:32:42,015 - OCESales -INFO - Entered Password
+2021-07-13 01:32:58,140 - OCESales -INFO - Login test Passed
+2021-07-13 14:22:13,518 - OCESales -INFO - URL is opened
+2021-07-13 14:22:14,317 - OCESales -INFO - Entered Username
+2021-07-13 14:22:16,155 - OCESales -INFO - Entered Password
+2021-07-13 14:25:09,459 - OCESales -INFO - URL is opened
+2021-07-13 14:25:10,413 - OCESales -INFO - Entered Username
+2021-07-13 14:25:11,305 - OCESales -INFO - Entered Password
+2021-07-13 14:30:55,934 - OCESales -INFO - URL is opened
+2021-07-13 14:30:56,293 - OCESales -INFO - Entered Username
+2021-07-13 14:30:56,449 - OCESales -INFO - Entered Password
+2021-07-13 14:33:04,611 - OCESales -INFO - URL is opened
+2021-07-13 14:33:04,906 - OCESales -INFO - Entered Username
+2021-07-13 14:33:04,949 - OCESales -INFO - Entered Password
+2021-07-13 18:45:51,600 - OCESales -INFO - URL is opened
+2021-07-13 18:45:52,311 - OCESales -INFO - Entered Username
+2021-07-13 18:45:53,662 - OCESales -INFO - Entered Password
+2021-07-13 18:46:23,970 - OCESales -INFO - Login test Passed
+2021-07-13 18:51:08,568 - OCESales -INFO - URL is opened
+2021-07-13 18:51:09,766 - OCESales -INFO - Entered Username
+2021-07-13 18:51:10,635 - OCESales -INFO - Entered Password
+2021-07-13 18:51:39,067 - OCESales -INFO - Login test Passed
+2021-07-13 20:13:22,836 - OCESales -INFO - URL is opened
+2021-07-13 20:13:24,520 - OCESales -INFO - Entered Username
+2021-07-13 20:13:25,385 - OCESales -INFO - Entered Password
+2021-07-13 20:13:52,380 - OCESales -INFO - Login test Passed
+2021-07-13 20:14:50,746 - OCESales -INFO - URL is opened
+2021-07-13 20:14:52,057 - OCESales -INFO - Entered Username
+2021-07-13 20:14:53,600 - OCESales -INFO - Entered Password
+2021-07-13 20:15:10,309 - OCESales -INFO - Login test Passed
+2021-07-13 20:37:25,069 - OCESales -INFO - URL is opened
+2021-07-13 20:37:25,573 - OCESales -INFO - Entered Username
+2021-07-13 20:37:26,831 - OCESales -INFO - Entered Password
+2021-07-13 20:39:08,731 - OCESales -INFO - URL is opened
+2021-07-13 20:39:09,675 - OCESales -INFO - Entered Username
+2021-07-13 20:39:10,710 - OCESales -INFO - Entered Password
+2021-07-13 20:41:28,198 - OCESales -INFO - URL is opened
+2021-07-13 20:41:29,358 - OCESales -INFO - Entered Username
+2021-07-13 20:41:30,407 - OCESales -INFO - Entered Password
+2021-07-13 20:44:12,111 - OCESales -INFO - URL is opened
+2021-07-13 20:44:13,018 - OCESales -INFO - Entered Username
+2021-07-13 20:44:13,760 - OCESales -INFO - Entered Password
+2021-07-13 20:46:08,019 - OCESales -INFO - URL is opened
+2021-07-13 20:46:09,517 - OCESales -INFO - Entered Username
+2021-07-13 20:46:10,132 - OCESales -INFO - Entered Password
+2021-07-13 20:46:37,258 - OCESales -INFO - Login test Passed
+2021-07-14 22:30:12,425 - OCESales -INFO - URL is opened
+2021-07-14 22:30:14,150 - OCESales -INFO - Entered Username
+2021-07-14 22:30:14,799 - OCESales -INFO - Entered Password
+2021-07-14 22:34:37,303 - OCESales -INFO - URL is opened
+2021-07-14 22:34:38,540 - OCESales -INFO - Entered Username
+2021-07-14 22:34:39,151 - OCESales -INFO - Entered Password
+2021-07-14 22:41:37,868 - OCESales -INFO - URL is opened
+2021-07-14 22:41:39,206 - OCESales -INFO - Entered Username
+2021-07-14 22:41:39,854 - OCESales -INFO - Entered Password
+2021-07-14 22:42:06,004 - OCESales -INFO - Login test Passed
+2021-07-15 20:13:54,617 - OCESales -INFO - Entered Username
+2021-07-15 20:13:54,766 - OCESales -INFO - Entered Password
+2021-07-15 20:14:21,231 - OCESales -INFO - Login test Passed
+2021-07-15 20:14:25,196 - OCESales -INFO - Entered Username
+2021-07-15 20:14:26,607 - OCESales -INFO - Entered Password
+2021-07-15 20:14:51,655 - OCESales -INFO - Login test Passed
+2021-07-15 20:14:55,380 - OCESales -INFO - Entered Username
+2021-07-15 20:14:56,045 - OCESales -INFO - Entered Password
+2021-07-15 20:15:14,453 - OCESales -INFO - Login test Passed
+2021-07-15 20:15:18,904 - OCESales -INFO - Entered Username
+2021-07-15 20:15:19,506 - OCESales -INFO - Entered Password
+2021-07-15 20:15:36,839 - OCESales -INFO - Login test Passed
+2021-07-15 20:15:40,167 - OCESales -INFO - Entered Username
+2021-07-15 20:15:40,799 - OCESales -INFO - Entered Password
+2021-07-16 10:24:36,017 - OCESales -INFO - URL is opened
+2021-07-16 10:24:37,242 - OCESales -INFO - Entered Username
+2021-07-16 10:24:38,223 - OCESales -INFO - Entered Password
+2021-07-16 10:28:58,124 - OCESales -INFO - URL is opened
+2021-07-16 10:28:59,143 - OCESales -INFO - Entered Username
+2021-07-16 10:29:00,757 - OCESales -INFO - Entered Password
+2021-07-16 10:32:21,160 - OCESales -INFO - URL is opened
+2021-07-16 10:32:21,982 - OCESales -INFO - Entered Username
+2021-07-16 10:32:23,046 - OCESales -INFO - Entered Password
+2021-07-16 10:40:11,591 - OCESales -INFO - URL is opened
+2021-07-16 10:40:13,253 - OCESales -INFO - Entered Username
+2021-07-16 10:40:13,926 - OCESales -INFO - Entered Password
+2021-07-16 10:40:46,719 - OCESales -INFO - Login test Passed
+2021-07-16 10:50:20,305 - OCESales -INFO - URL is opened
+2021-07-16 10:50:21,698 - OCESales -INFO - Entered Username
+2021-07-16 10:50:22,552 - OCESales -INFO - Entered Password
+2021-07-16 10:50:52,621 - OCESales -INFO - Login test Passed
+2021-07-16 10:57:46,757 - OCESales -INFO - Entered Username
+2021-07-16 10:57:46,937 - OCESales -INFO - Entered Password
+2021-07-16 10:58:17,153 - OCESales -INFO - Login test Passed
+2021-07-16 10:58:23,099 - OCESales -INFO - Entered Username
+2021-07-16 10:58:24,904 - OCESales -INFO - Entered Password
+2021-07-16 10:58:45,307 - OCESales -INFO - Entered Username
+2021-07-16 10:58:45,433 - OCESales -INFO - Entered Password
+2021-07-16 10:59:06,465 - OCESales -INFO - Entered Username
+2021-07-16 10:59:06,586 - OCESales -INFO - Entered Password
+2021-07-16 10:59:28,015 - OCESales -INFO - Entered Username
+2021-07-16 10:59:28,126 - OCESales -INFO - Entered Password
+2021-07-16 11:06:36,367 - OCESales -INFO - Entered Username
+2021-07-16 11:06:36,624 - OCESales -INFO - Entered Password
+2021-07-16 11:07:06,058 - OCESales -INFO - Login test Passed
+2021-07-16 11:07:06,391 - OCESales -INFO - Clicked on Veiw Profile
+2021-07-16 11:07:07,396 - OCESales -INFO - page logout successfully
+2021-07-16 11:07:07,478 - OCESales -INFO - reached to login page
+2021-07-16 11:07:10,445 - OCESales -INFO - Entered Username
+2021-07-16 11:07:12,300 - OCESales -INFO - Entered Password
+2021-07-16 11:07:32,666 - OCESales -INFO - Entered Username
+2021-07-16 11:07:32,781 - OCESales -INFO - Entered Password
+2021-07-16 11:07:53,886 - OCESales -INFO - Entered Username
+2021-07-16 11:07:54,023 - OCESales -INFO - Entered Password
+2021-07-16 11:08:15,485 - OCESales -INFO - Entered Username
+2021-07-16 11:08:15,586 - OCESales -INFO - Entered Password
+2021-07-16 11:29:17,841 - OCESales -INFO - Entered Username
+2021-07-16 11:29:18,019 - OCESales -INFO - Entered Password
+2021-07-16 11:29:50,040 - OCESales -INFO - Login test Passed
+2021-07-16 11:29:50,391 - OCESales -INFO - Clicked on Veiw Profile
+2021-07-16 11:29:50,977 - OCESales -INFO - page logout successfully
+2021-07-16 11:29:50,995 - OCESales -INFO - reached to login page
+2021-07-16 11:29:55,154 - OCESales -INFO - Entered Username
+2021-07-16 11:29:57,718 - OCESales -INFO - Entered Password
+2021-07-16 11:30:18,083 - OCESales -INFO - Entered Username
+2021-07-16 11:30:18,222 - OCESales -INFO - Entered Password
+2021-07-16 11:30:39,362 - OCESales -INFO - Entered Username
+2021-07-16 11:30:39,506 - OCESales -INFO - Entered Password
+2021-07-16 11:31:00,815 - OCESales -INFO - Entered Username
+2021-07-16 11:31:00,912 - OCESales -INFO - Entered Password
+2021-07-16 11:35:35,354 - OCESales -INFO - Entered Username
+2021-07-16 11:35:35,514 - OCESales -INFO - Entered Password
+2021-07-16 11:36:05,143 - OCESales -INFO - Login test Passed
+2021-07-16 11:36:05,453 - OCESales -INFO - Clicked on Veiw Profile
+2021-07-16 11:36:06,110 - OCESales -INFO - page logout successfully
+2021-07-16 11:36:06,143 - OCESales -INFO - reached to login page
+2021-07-16 11:36:09,834 - OCESales -INFO - Entered Username
+2021-07-16 11:36:12,102 - OCESales -INFO - Entered Password
+2021-07-16 11:36:32,757 - OCESales -INFO - Entered Username
+2021-07-16 11:36:32,864 - OCESales -INFO - Entered Password
+2021-07-16 11:36:54,042 - OCESales -INFO - Entered Username
+2021-07-16 11:36:54,142 - OCESales -INFO - Entered Password
+2021-07-16 11:37:15,595 - OCESales -INFO - Entered Username
+2021-07-16 11:37:15,744 - OCESales -INFO - Entered Password
+2021-07-16 11:38:22,272 - OCESales -INFO - Entered Username
+2021-07-16 11:38:22,422 - OCESales -INFO - Entered Password
+2021-07-16 11:38:52,354 - OCESales -INFO - Login test Passed
+2021-07-16 11:38:52,733 - OCESales -INFO - Clicked on Veiw Profile
+2021-07-16 11:38:53,806 - OCESales -INFO - page logout successfully
+2021-07-16 11:38:53,879 - OCESales -INFO - reached to login page
+2021-07-16 11:38:57,128 - OCESales -INFO - Entered Username
+2021-07-16 11:38:58,835 - OCESales -INFO - Entered Password
+2021-07-16 11:39:19,320 - OCESales -INFO - Entered Username
+2021-07-16 11:39:19,458 - OCESales -INFO - Entered Password
+2021-07-16 11:39:40,339 - OCESales -INFO - Entered Username
+2021-07-16 11:39:40,453 - OCESales -INFO - Entered Password
+2021-07-16 11:40:01,699 - OCESales -INFO - Entered Username
+2021-07-16 11:40:01,818 - OCESales -INFO - Entered Password
+2021-07-19 16:48:29,404 - OCESales -INFO - Entered Username
+2021-07-19 16:48:29,551 - OCESales -INFO - Entered Password
+2021-07-19 16:48:51,275 - OCESales -INFO - Entered Username
+2021-07-19 16:48:51,381 - OCESales -INFO - Entered Password
+2021-07-19 16:49:29,447 - OCESales -INFO - Entered Username
+2021-07-19 16:49:29,591 - OCESales -INFO - Entered Password
+2021-07-19 16:50:08,222 - OCESales -INFO - Entered Username
+2021-07-19 16:50:08,341 - OCESales -INFO - Entered Password
+2021-07-19 16:50:40,389 - OCESales -INFO - Entered Username
+2021-07-19 16:50:40,512 - OCESales -INFO - Entered Password
+2021-07-19 16:57:26,013 - OCESales -INFO - URL is opened
+2021-07-19 16:57:27,968 - OCESales -INFO - Entered Username
+2021-07-19 16:57:28,402 - OCESales -INFO - Entered Password
+2021-07-19 16:58:08,613 - OCESales -INFO - URL is opened
+2021-07-19 16:58:09,097 - OCESales -INFO - Entered Username
+2021-07-19 16:58:09,537 - OCESales -INFO - Entered Password
+2021-07-19 16:58:47,007 - OCESales -INFO - URL is opened
+2021-07-19 16:58:47,125 - OCESales -INFO - Entered Username
+2021-07-19 16:58:47,231 - OCESales -INFO - Entered Password
+2021-07-19 16:59:07,334 - OCESales -INFO - URL is opened
+2021-07-19 16:59:07,461 - OCESales -INFO - Entered Username
+2021-07-19 16:59:07,562 - OCESales -INFO - Entered Password
+2021-07-19 16:59:47,327 - OCESales -INFO - URL is opened
+2021-07-19 16:59:47,474 - OCESales -INFO - Entered Username
+2021-07-19 16:59:47,599 - OCESales -INFO - Entered Password
+2021-07-19 17:00:18,675 - OCESales -INFO - URL is opened
+2021-07-19 17:00:18,749 - OCESales -INFO - Entered Username
+2021-07-19 17:00:18,831 - OCESales -INFO - Entered Password
+2021-07-19 17:04:21,453 - OCESales -INFO - URL is opened
+2021-07-19 17:04:22,733 - OCESales -INFO - Entered Username
+2021-07-19 17:04:23,586 - OCESales -INFO - Entered Password
+2021-07-19 17:04:53,641 - OCESales -INFO - Login test Passed
+2021-07-19 17:05:04,637 - OCESales -INFO - URL is opened
+2021-07-19 17:05:05,617 - OCESales -INFO - Entered Username
+2021-07-19 17:05:05,894 - OCESales -INFO - Entered Password
+2021-07-19 17:05:35,119 - OCESales -INFO - Login test Passed
+2021-07-19 17:06:05,207 - OCESales -INFO - URL is opened
+2021-07-19 17:06:35,254 - OCESales -INFO - URL is opened
+2021-07-19 17:07:05,300 - OCESales -INFO - URL is opened
+2021-07-19 17:07:35,352 - OCESales -INFO - URL is opened
+2021-07-19 17:10:12,035 - OCESales -INFO - URL is opened
+2021-07-19 17:10:13,293 - OCESales -INFO - Entered Username
+2021-07-19 17:10:13,984 - OCESales -INFO - Entered Password
+2021-07-19 17:10:45,393 - OCESales -INFO - Login test Passed
+2021-07-20 13:01:46,724 - OCESales -INFO - URL is opened
+2021-07-20 13:01:47,820 - OCESales -INFO - Entered Username
+2021-07-20 13:01:49,021 - OCESales -INFO - Entered Password
+2021-07-20 13:02:21,151 - OCESales -INFO - Login test Passed
+2021-07-20 17:13:57,900 - OCESales -INFO - URL is opened
+2021-07-20 17:13:59,851 - OCESales -INFO - Entered Username
+2021-07-20 17:14:00,448 - OCESales -INFO - Entered Password
+2021-07-20 17:17:00,754 - OCESales -INFO - URL is opened
+2021-07-20 17:17:02,377 - OCESales -INFO - Entered Username
+2021-07-20 17:17:03,359 - OCESales -INFO - Entered Password
+2021-07-20 17:21:11,556 - OCESales -INFO - URL is opened
+2021-07-20 17:21:12,366 - OCESales -INFO - Entered Username
+2021-07-20 17:21:13,839 - OCESales -INFO - Entered Password
+2021-07-20 19:48:18,658 - OCESales -INFO - URL is opened
+2021-07-20 19:48:20,038 - OCESales -INFO - Entered Username
+2021-07-20 19:48:20,628 - OCESales -INFO - Entered Password
+2021-07-20 19:50:24,829 - OCESales -INFO - URL is opened
+2021-07-20 19:50:26,264 - OCESales -INFO - Entered Username
+2021-07-20 19:50:26,424 - OCESales -INFO - Entered Password
+2021-07-20 19:51:28,478 - OCESales -INFO - URL is opened
+2021-07-20 19:51:29,941 - OCESales -INFO - Entered Username
+2021-07-20 19:51:30,650 - OCESales -INFO - Entered Password
+2021-07-20 19:53:03,717 - OCESales -INFO - URL is opened
+2021-07-20 19:53:05,091 - OCESales -INFO - Entered Username
+2021-07-20 19:53:05,663 - OCESales -INFO - Entered Password
+2021-07-20 19:53:36,757 - OCESales -INFO - Login test Passed
+2021-07-20 19:59:45,824 - OCESales -INFO - URL is opened
+2021-07-20 19:59:46,335 - OCESales -INFO - Entered Username
+2021-07-20 19:59:46,916 - OCESales -INFO - Entered Password
+2021-07-20 20:00:18,120 - OCESales -INFO - Login test Passed
+2021-07-20 20:11:15,200 - OCESales -INFO - URL is opened
+2021-07-20 20:11:16,220 - OCESales -INFO - Entered Username
+2021-07-20 20:11:17,881 - OCESales -INFO - Entered Password
+2021-07-20 20:11:47,345 - OCESales -INFO - Login test Passed
+2021-07-20 20:11:54,852 - OCESales -INFO - URL is opened
+2021-07-20 20:11:55,984 - OCESales -INFO - Entered Username
+2021-07-20 20:11:57,491 - OCESales -INFO - Entered Password
+2021-07-20 20:12:26,800 - OCESales -INFO - login successfully
+2021-07-20 20:12:27,067 - OCESales -INFO - Clicked on Veiw profile
+2021-07-20 20:12:27,809 - OCESales -INFO - Clicked on Logout.
+2021-07-22 20:16:35,357 - OCESales -INFO - URL is opened
+2021-07-22 20:16:36,638 - OCESales -INFO - Entered Username
+2021-07-22 20:16:37,360 - OCESales -INFO - Entered Password
+2021-07-22 20:17:09,712 - OCESales -INFO - Login test Passed
+2021-07-22 20:17:17,028 - OCESales -INFO - URL is opened
+2021-07-22 20:17:17,808 - OCESales -INFO - Entered Username
+2021-07-22 20:17:19,296 - OCESales -INFO - Entered Password
+2021-07-22 20:17:51,304 - OCESales -INFO - login successfully
+2021-07-22 20:17:51,594 - OCESales -INFO - Clicked on Veiw profile
+2021-07-22 20:17:52,397 - OCESales -INFO - Clicked on Logout.
+2021-07-22 20:20:51,593 - OCESales -INFO - URL is opened
+2021-07-22 20:20:52,207 - OCESales -INFO - Entered Username
+2021-07-22 20:20:54,499 - OCESales -INFO - Entered Password
+2021-07-22 20:21:11,822 - OCESales -INFO - Login test Passed
+2021-07-22 20:21:19,836 - OCESales -INFO - URL is opened
+2021-07-22 20:21:20,221 - OCESales -INFO - Entered Username
+2021-07-22 20:21:21,537 - OCESales -INFO - Entered Password
+2021-07-22 20:21:33,825 - OCESales -INFO - login successfully
+2021-07-22 20:21:36,231 - OCESales -INFO - Clicked on Veiw profile
+2021-07-22 20:21:46,976 - OCESales -INFO - Clicked on Logout.
+2021-07-30 10:41:43,260 - OCESales -INFO - URL is opened
+2021-07-30 10:41:44,361 - OCESales -INFO - Entered Username
+2021-07-30 10:41:44,912 - OCESales -INFO - Entered Password
+2021-07-30 10:42:06,849 - OCESales -INFO - URL is opened
+2021-07-30 10:42:07,136 - OCESales -INFO - Entered Username
+2021-07-30 10:42:07,585 - OCESales -INFO - Entered Password
+2021-07-30 10:42:20,137 - OCESales -INFO - login successfully
+2021-07-30 10:48:06,112 - OCESales -INFO - URL is opened
+2021-07-30 10:48:06,487 - OCESales -INFO - Entered Username
+2021-07-30 10:48:06,621 - OCESales -INFO - Entered Password
+2021-07-30 10:48:29,922 - OCESales -INFO - Login test Passed
+2021-07-30 10:49:21,274 - OCESales -INFO - URL is opened
+2021-07-30 10:49:21,564 - OCESales -INFO - Entered Username
+2021-07-30 10:49:22,226 - OCESales -INFO - Entered Password
+2021-07-30 10:49:47,347 - OCESales -INFO - Login test Passed
+2021-07-30 10:49:55,666 - OCESales -INFO - URL is opened
+2021-07-30 10:49:55,981 - OCESales -INFO - Entered Username
+2021-07-30 10:49:56,151 - OCESales -INFO - Entered Password
+2021-07-30 10:50:18,431 - OCESales -INFO - login successfully
+2021-07-30 10:50:20,687 - OCESales -INFO - Clicked on Veiw profile
+2021-07-30 10:50:30,890 - OCESales -INFO - Clicked on Logout.
+2021-07-30 10:52:06,189 - OCESales -INFO - URL is opened
+2021-07-30 10:52:06,575 - OCESales -INFO - Entered Username
+2021-07-30 10:52:07,811 - OCESales -INFO - Entered Password
+2021-07-30 10:52:56,864 - OCESales -INFO - URL is opened
+2021-07-30 10:52:57,903 - OCESales -INFO - Entered Username
+2021-07-30 10:52:58,630 - OCESales -INFO - Entered Password
+2021-07-30 10:54:22,969 - OCESales -INFO - URL is opened
+2021-07-30 10:54:23,789 - OCESales -INFO - Entered Username
+2021-07-30 10:54:24,139 - OCESales -INFO - Entered Password
+2021-07-30 10:54:37,565 - OCESales -INFO - Login test Failed
+2021-07-30 17:40:41,558 - OCESales -INFO - URL is opened
+2021-07-30 17:40:42,777 - OCESales -INFO - Entered Username
+2021-07-30 17:40:43,480 - OCESales -INFO - Entered Password
+2021-07-30 17:41:11,255 - OCESales -INFO - Login test Passed
+2021-08-03 14:46:56,678 - OCESales -INFO - URL is opened
+2021-08-03 14:46:56,794 - OCESales -INFO - Entered Username
+2021-08-03 14:46:56,837 - OCESales -INFO - Entered Password
+2021-08-03 14:47:14,180 - OCESales -INFO - Login test Passed
+2021-08-03 14:49:10,643 - OCESales -INFO - URL is opened
+2021-08-03 14:49:10,802 - OCESales -INFO - Entered Username
+2021-08-03 14:49:10,852 - OCESales -INFO - Entered Password
+2021-08-03 14:49:26,791 - OCESales -INFO - Login test Passed
+2021-08-03 17:13:43,621 - OCESales -INFO - URL is opened
+2021-08-03 17:13:43,770 - OCESales -INFO - Entered Username
+2021-08-03 17:13:43,842 - OCESales -INFO - Entered Password
+2021-08-03 17:13:59,479 - OCESales -INFO - Login test Failed
+2021-08-03 17:52:04,798 - OCESales -INFO - URL is opened
+2021-08-03 17:52:06,852 - OCESales -INFO - Entered Username
+2021-08-03 17:52:07,383 - OCESales -INFO - Entered Password
+2021-08-03 17:52:33,826 - OCESales -INFO - Login test Passed
+2021-08-03 17:53:29,103 - OCESales -INFO - URL is opened
+2021-08-03 17:53:29,532 - OCESales -INFO - Entered Username
+2021-08-03 17:53:29,607 - OCESales -INFO - Entered Password
+2021-08-03 17:53:46,234 - OCESales -INFO - Login test Passed
+2021-08-03 18:11:05,730 - OCESales -INFO - URL is opened
+2021-08-03 18:11:05,905 - OCESales -INFO - Entered Username
+2021-08-03 18:11:05,994 - OCESales -INFO - Entered Password
+2021-08-03 18:11:22,046 - OCESales -INFO - Login test Passed
+2021-08-03 19:04:15,749 - OCESales -INFO - URL is opened
+2021-08-03 19:04:16,097 - OCESales -INFO - Entered Username
+2021-08-03 19:04:16,276 - OCESales -INFO - Entered Password
+2021-08-03 19:04:31,860 - OCESales -INFO - Login test Passed
+2021-08-03 19:11:22,650 - OCESales -INFO - URL is opened
+2021-08-03 19:11:23,043 - OCESales -INFO - Entered Username
+2021-08-03 19:11:23,886 - OCESales -INFO - Entered Password
+2021-08-03 19:11:47,530 - OCESales -INFO - Login test Passed
+2021-08-03 19:13:15,577 - OCESales -INFO - URL is opened
+2021-08-03 19:13:15,781 - OCESales -INFO - Entered Username
+2021-08-03 19:13:15,893 - OCESales -INFO - Entered Password
+2021-08-03 19:13:28,001 - OCESales -INFO - Login test Failed
+2021-08-03 19:15:06,373 - OCESales -INFO - URL is opened
+2021-08-03 19:15:07,291 - OCESales -INFO - Entered Username
+2021-08-03 19:15:09,233 - OCESales -INFO - Entered Password
+2021-08-03 19:15:31,498 - OCESales -INFO - Login test Passed
+2021-08-03 19:17:39,329 - OCESales -INFO - URL is opened
+2021-08-03 19:17:39,956 - OCESales -INFO - Entered Username
+2021-08-03 19:17:41,048 - OCESales -INFO - Entered Password
+2021-08-03 19:18:07,972 - OCESales -INFO - Login test Passed
+2021-08-03 19:19:29,716 - OCESales -INFO - URL is opened
+2021-08-03 19:19:30,116 - OCESales -INFO - Entered Username
+2021-08-03 19:19:31,103 - OCESales -INFO - Entered Password
+2021-08-03 19:19:52,763 - OCESales -INFO - Login test Passed
+2021-08-03 19:20:47,634 - OCESales -INFO - URL is opened
+2021-08-03 19:20:48,331 - OCESales -INFO - Entered Username
+2021-08-03 19:20:48,722 - OCESales -INFO - Entered Password
+2021-08-03 19:21:01,734 - OCESales -INFO - Login test Failed
+2021-08-03 19:25:34,878 - OCESales -INFO - URL is opened
+2021-08-03 19:25:35,175 - OCESales -INFO - Entered Username
+2021-08-03 19:25:35,223 - OCESales -INFO - Entered Password
+2021-08-03 19:25:50,943 - OCESales -INFO - Clicked on Login
+2021-08-03 19:25:50,949 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:28:56,393 - OCESales -INFO - URL is opened
+2021-08-03 19:28:56,680 - OCESales -INFO - Entered Username
+2021-08-03 19:28:56,799 - OCESales -INFO - Entered Password
+2021-08-03 19:29:13,204 - OCESales -INFO - Clicked on Login
+2021-08-03 19:29:13,222 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:31:00,713 - OCESales -INFO - URL is opened
+2021-08-03 19:31:01,136 - OCESales -INFO - Entered Username
+2021-08-03 19:31:01,406 - OCESales -INFO - Entered Password
+2021-08-03 19:31:14,386 - OCESales -INFO - Clicked on Login
+2021-08-03 19:31:14,403 - OCESales -INFO - Login test Failed....
+2021-08-03 19:33:07,808 - OCESales -INFO - URL is opened
+2021-08-03 19:33:08,003 - OCESales -INFO - Entered Username
+2021-08-03 19:33:08,098 - OCESales -INFO - Entered Password
+2021-08-03 19:33:23,639 - OCESales -INFO - Clicked on Login
+2021-08-03 19:33:23,646 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:36:23,874 - OCESales -INFO - URL is opened
+2021-08-03 19:36:24,187 - OCESales -INFO - Entered Username
+2021-08-03 19:36:24,399 - OCESales -INFO - Entered Password
+2021-08-03 19:36:37,330 - OCESales -INFO - Clicked on Login
+2021-08-03 19:36:37,335 - OCESales -INFO - Login test Failed....
+2021-08-03 19:37:51,071 - OCESales -INFO - URL is opened
+2021-08-03 19:37:51,540 - OCESales -INFO - Entered Username
+2021-08-03 19:37:51,773 - OCESales -INFO - Entered Password
+2021-08-03 19:38:07,890 - OCESales -INFO - Clicked on Login
+2021-08-03 19:38:07,897 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:41:06,558 - OCESales -INFO - URL is opened
+2021-08-03 19:41:06,970 - OCESales -INFO - Entered Username
+2021-08-03 19:41:07,189 - OCESales -INFO - Entered Password
+2021-08-03 19:41:20,226 - OCESales -INFO - Clicked on Login
+2021-08-03 19:41:20,240 - OCESales -INFO - Login test Failed....
+2021-08-03 19:42:13,599 - OCESales -INFO - URL is opened
+2021-08-03 19:42:13,851 - OCESales -INFO - Entered Username
+2021-08-03 19:42:13,984 - OCESales -INFO - Entered Password
+2021-08-03 19:42:35,959 - OCESales -INFO - Clicked on Login
+2021-08-03 19:42:35,964 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:44:02,424 - OCESales -INFO - URL is opened
+2021-08-03 19:44:02,825 - OCESales -INFO - Entered Username
+2021-08-03 19:44:02,877 - OCESales -INFO - Entered Password
+2021-08-03 19:44:18,500 - OCESales -INFO - Clicked on Login
+2021-08-03 19:44:18,506 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:53:13,311 - OCESales -INFO - URL is opened
+2021-08-03 19:53:13,668 - OCESales -INFO - Entered Username
+2021-08-03 19:53:14,183 - OCESales -INFO - Entered Password
+2021-08-03 19:53:27,297 - OCESales -INFO - Clicked on Login
+2021-08-03 19:53:27,311 - OCESales -INFO - Login test Failed....
+2021-08-03 19:55:25,406 - OCESales -INFO - URL is opened
+2021-08-03 19:55:26,233 - OCESales -INFO - Entered Username
+2021-08-03 19:55:27,350 - OCESales -INFO - Entered Password
+2021-08-03 19:55:47,171 - OCESales -INFO - Clicked on Login
+2021-08-03 19:55:47,233 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:57:00,865 - OCESales -INFO - URL is opened
+2021-08-03 19:57:01,297 - OCESales -INFO - Entered Username
+2021-08-03 19:57:02,015 - OCESales -INFO - Entered Password
+2021-08-03 19:57:14,450 - OCESales -INFO - Clicked on Login
+2021-08-03 19:57:14,472 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:58:09,870 - OCESales -INFO - URL is opened
+2021-08-03 19:58:10,127 - OCESales -INFO - Entered Username
+2021-08-03 19:58:11,297 - OCESales -INFO - Entered Password
+2021-08-03 19:58:32,235 - OCESales -INFO - Clicked on Login
+2021-08-03 19:58:32,243 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 19:58:34,333 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:00:08,185 - OCESales -INFO - URL is opened
+2021-08-03 20:00:08,437 - OCESales -INFO - Entered Username
+2021-08-03 20:00:08,551 - OCESales -INFO - Entered Password
+2021-08-03 20:00:24,458 - OCESales -INFO - Clicked on Login
+2021-08-03 20:00:24,467 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 20:00:26,977 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:02:11,763 - OCESales -INFO - URL is opened
+2021-08-03 20:02:12,181 - OCESales -INFO - Entered Username.
+2021-08-03 20:02:12,235 - OCESales -INFO - Entered Password.
+2021-08-03 20:02:12,236 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:02:27,954 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 20:02:30,619 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:04:47,692 - OCESales -INFO - URL is opened
+2021-08-03 20:04:51,264 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:05:44,351 - OCESales -INFO - URL is opened
+2021-08-03 20:05:44,697 - OCESales -INFO - Entered Username.
+2021-08-03 20:05:44,936 - OCESales -INFO - Entered Password.
+2021-08-03 20:05:44,937 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:06:03,898 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:06:42,176 - OCESales -INFO - URL is opened
+2021-08-03 20:06:42,657 - OCESales -INFO - Entered Username.
+2021-08-03 20:06:43,635 - OCESales -INFO - Entered Password.
+2021-08-03 20:06:43,636 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:07:02,560 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:08:46,395 - OCESales -INFO - URL is opened
+2021-08-03 20:08:46,820 - OCESales -INFO - Entered Username.
+2021-08-03 20:08:47,686 - OCESales -INFO - Entered Password.
+2021-08-03 20:08:47,686 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:09:12,224 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:09:21,869 - OCESales -INFO - URL is opened
+2021-08-03 20:09:21,975 - OCESales -INFO - Entered Username.
+2021-08-03 20:09:22,170 - OCESales -INFO - Entered Password.
+2021-08-03 20:09:22,170 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:09:40,618 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:12:55,209 - OCESales -INFO - URL is opened
+2021-08-03 20:12:55,446 - OCESales -INFO - Entered Username.
+2021-08-03 20:12:55,553 - OCESales -INFO - Entered Password.
+2021-08-03 20:12:55,554 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:13:15,580 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:14:56,195 - OCESales -INFO - URL is opened
+2021-08-03 20:14:56,394 - OCESales -INFO - Entered Username.
+2021-08-03 20:14:56,496 - OCESales -INFO - Entered Password.
+2021-08-03 20:14:56,496 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:15:12,112 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 20:15:14,647 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:20:56,423 - OCESales -INFO - URL is opened
+2021-08-03 20:20:56,720 - OCESales -INFO - Entered Username.
+2021-08-03 20:20:56,758 - OCESales -INFO - Entered Password.
+2021-08-03 20:20:56,758 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:21:12,327 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 20:21:14,765 - OCESales -INFO - Browser closed successfully.
+2021-08-03 20:22:35,178 - OCESales -INFO - URL is opened
+2021-08-03 20:22:35,341 - OCESales -INFO - Entered Username.
+2021-08-03 20:22:35,432 - OCESales -INFO - Entered Password.
+2021-08-03 20:22:35,433 - OCESales -INFO - Clicked on Login and waiting to load the home page.
+2021-08-03 20:22:50,931 - OCESales -INFO - User is able to login successfully.....!
+2021-08-03 20:22:52,900 - OCESales -INFO - Browser closed successfully.
